@@ -1,13 +1,6 @@
 <html>
      <head>
 	      <title>Hollow Studio</title
-           <style>
-            p {
-
-             color: orange
-             font-size: 30px;
-            }
-           </style>
 	 </head>
 
      <body style="background-image: url('https://static.wikia.nocookie.net/hollowknight/images/a/a1/Menu_Theme_Radiant_Cut.png'); background-repeat: no-repeat; background-size: cover; background-position: center;">

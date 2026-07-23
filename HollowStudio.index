@@ -13,7 +13,7 @@
     }
 
     p {
-      color: #E2FF00;
+      color: #200;
       font-size: 20px;
     }
            </style>

@@ -8,13 +8,13 @@
 
     h1 {
       color: red;
-      font-size: 56px;
+      font-size: 56;
       text-align: center;
     }
 
     p {
       color: navy;
-      font-size: 36px;
+      font-size: 36;
     }
            </style>
 	 </head>

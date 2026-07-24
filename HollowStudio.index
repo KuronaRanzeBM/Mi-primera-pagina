@@ -7,7 +7,7 @@
     }
 
     h1 {
-      color: navy;
+      color: orange;
       font-size: 36px;
       text-align: center;
     }
